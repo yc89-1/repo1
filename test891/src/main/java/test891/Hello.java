@@ -19,5 +19,10 @@ public class Hello {
 	public static void main(String[] args) {
 		
 	}
+	
+	public void test() {
+		// 新增的方法
+		System.out.println("test");
+	}
 
 }
