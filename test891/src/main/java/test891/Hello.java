@@ -17,7 +17,7 @@ package test891;
 public class Hello {
 	
 	public static void main(String[] args) {
-		System.out.println("hello world"); // 修改的方法
+		System.out.println("你好衡阳"); // 修改的方法
 	}
 	
 	public void test() {
