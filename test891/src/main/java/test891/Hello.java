@@ -22,7 +22,7 @@ public class Hello {
 	
 	public void test() {
 		// 新增的方法
-		System.out.println("test-- 组长");
+		System.out.println("test--组员");
 	}
 
 }
